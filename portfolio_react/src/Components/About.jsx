@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import aboutImg from "../assets/hero.avif";
+import aboutImg from "../assets/me-in-suit.jpg";
 const About = () => {
   const [education, seteducation] = useState(false);
   return (

@@ -4,7 +4,7 @@ import Projects1 from "./Data/projects.json";
 const Projects = () => {
   return (
     <>
-      <div className="conatiner project" id = "projects">
+      <div className="conatiner project " id = "projects">
         <h1>Projects</h1>
         
         <div className="row d-flex justify-content-center align-items-center flex-wrap my-5">
@@ -37,6 +37,7 @@ const Projects = () => {
                         border: "2px solid white",
                         borderRadius: "10px",
                         boxShadow: "0px 0px 10px 0px white",
+                      
                       }}
                        
                     />
