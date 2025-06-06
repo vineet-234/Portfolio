@@ -1,34 +1,34 @@
 [
   {
     "key": 1,
-    "title": "React E-Commerce",
-    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "title": "study-sync-app",
+    "imageSrc": "https://media.istockphoto.com/id/1458178594/photo/update-software-system-in-computer-man-using-smartphone-upgrade-program-business-technology.jpg?s=2048x2048&w=is&k=20&c=r3syCDiklLPcIc3o8ZpvurGFSlntJek9Pod-qT-6Tgc=",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://vineet-234.github.io/study-sync/",
+    "source": "https://github.com/vineet-234/study-sync"
   },
   {
     "key": 2,
-    "title": "MERN Blogging",
-    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "title": "calculator-app",
+    "imageSrc": "https://cdn.pixabay.com/photo/2014/08/22/17/43/calculator-424564_1280.jpg",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://vineet-234.github.io/calci/",
+    "source": "https://github.com/vineet-234/calci"
   },
   {
     "key": 3,
-    "title": "React Recipe",
-    "imageSrc": "https://media.istockphoto.com/id/1081869356/photo/taking-on-the-late-shift-with-true-dedication.jpg?s=2048x2048&w=is&k=20&c=A3NP-CNwRKAC01g1DObW8Z-ubBe3m-yrndvFTT68zWI=",
+    "title": "music-app",
+    "imageSrc": "https://cdn.pixabay.com/photo/2022/06/21/21/15/audio-7276511_1280.jpg",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://music-app-drab-nine.vercel.app/",
+    "source": "https://github.com/vineet-234/music-app"
   },
   {
     "key": 4,
-    "title": "React Firebase App",
-    "imageSrc": "https://media.istockphoto.com/id/1827291486/photo/a-dedicated-mentor-is-explaining-mentees-importance-of-project-while-sitting-at-the-boardroom.jpg?s=2048x2048&w=is&k=20&c=BZknivDLbc5rge_1Sl4874fAw7MwPj6xuepUVw3hYnE=",
+    "title": "Notes-app",
+    "imageSrc": "https://cdn.pixabay.com/photo/2020/01/30/17/49/book-4806076_1280.jpg",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://paste-app-coral-alpha.vercel.app/",
+    "source": "https://github.com/vineet-234/PasteApp"
   }
 ]

@@ -7,7 +7,7 @@ const Projects = () => {
       <div className="conatiner project " id = "projects">
         <h1>Projects</h1>
         
-        <div className="row d-flex justify-content-center align-items-center flex-wrap my-5">
+        <div className="flex justify-center align-center flex-wrap my-5 w-full ">
           {Projects1.map((data) => (
             <>
               <div
