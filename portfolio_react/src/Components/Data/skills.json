@@ -20,8 +20,8 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title":"Firebase",
-    "imageSrc":"skills/firebase.png"
+    "title":"DSA",
+    "imageSrc":"skills/dsalogo.jpg"
   },
   {
     "title": "SQL",
@@ -32,7 +32,7 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "SpringBoot",
+    "imageSrc": "skills/springboot.png"
   }
 ]

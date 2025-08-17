@@ -11,31 +11,32 @@ const About = () => {
         data-aos-duration="1400"
       >
         <img src={aboutImg} className="h-[600px] rounded-4xl" />
-        <div>
-          <p>
+        <div className="mb-39">
+          <p className="text-xl font-sans mb-39">
             I am a skilled developer with expertise in HTML, CSS, JavaScript,
-            React, and C++ (including Data Structures & Algorithms). I
+            React, SpringBoot and C++ (including Data Structures & Algorithms). I
             specialize in creating dynamic, responsive web applications and
             solving complex problems with efficient algorithms, always striving
             to build high-quality and optimized solutions
           </p>
-          <div className="flex gap-4 mt-4">
-            <button className="font-bold text-amber-200" onClick={() => seteducation(false)}> Certification</button>
-            <button className="font-bold text-amber-200" onClick={() => seteducation(true)}>Education</button>
+           <div className="flex flex-col gap-1 mt-4 ml-6" >
+            <span className="font-bold text-amber-200">Education</span>
+            <div className="w-18 h-1 bg-amber-600"></div>
           </div>
-          {education ? (
-            <div className="flex flex-col gap-2 ">
-              <div className="w-19 h-1 bg-amber-900 ml-26 "></div>
-              10th-85%
-              <br />
-              12th-82%
-            </div>
-          ) : (
-            <div>
-              <div className="w-19 h-1 bg-amber-900 ml-2"></div>
-              have to fill
-            </div>
-          )}
+          <div className="flex flex-col gap-2  ml-6">
+            <br/>
+            
+            10th-85%
+            <br />
+            
+            <br />
+            12th-82%
+            <br />
+            
+            <br/>
+            B.E-7.4 GPA
+          </div>
+          
         </div>
       </div>
     </div>
